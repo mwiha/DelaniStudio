@@ -32,3 +32,25 @@
     background: url("../images/backgrounds/s_image.jpg") no-repeat center center/cover;
     color: #fff;
 }
+.contacts{
+    background: url("../images/backgrounds/c_image.jpg")no-repeat center center/cover;
+    height: 50vh;
+    color: #fff;
+
+}
+#submit{
+    margin-top: 2rem;
+    display: block;
+}
+
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#name,#email,#message{
+    background-color: transparent;
+}
+#name::placeholder,#email::placeholder,#message::placeholder{
+    color: #fff;
+}
