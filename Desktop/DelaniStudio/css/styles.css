@@ -21,3 +21,12 @@
 .logo{
     margin-bottom: 2rem;
 }
+.about{
+    height: 50vh;
+ }
+.about p{
+    width: 59%;
+} 
+.services{
+    height: 50vh;
+}
