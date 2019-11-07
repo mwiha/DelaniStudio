@@ -2,5 +2,22 @@
     background:url("../images/backgrounds/h_img.jpg") no-repeat center center/cover;
     height: 100vh;
     color: #fff;
-    
+
+}
+.mouse-click{
+    position: absolute;
+    top: 90vh;
+}
+
+.header h1{
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.delani{
+    display: block;
+    font-size: 4rem;
+}
+.logo{
+    margin-bottom: 2rem;
 }
