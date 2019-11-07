@@ -1,0 +1,56 @@
+.header{
+    background:url("../images/backgrounds/h_img.jpg") no-repeat center center/cover;
+    height: 100vh;
+    color: #fff;
+
+}
+.mouse-click{
+    position: absolute;
+    top: 90vh;
+}
+
+.header h1{
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.delani{
+    display: block;
+    font-size: 4rem;
+}
+.logo{
+    margin-bottom: 2rem;
+}
+.about{
+    height: 50vh;
+ }
+.about p{
+    width: 59%;
+} 
+.services{
+    height: 50vh;
+    background: url("../images/backgrounds/s_image.jpg") no-repeat center center/cover;
+    color: #fff;
+}
+.contacts{
+    background: url("../images/backgrounds/c_image.jpg")no-repeat center center/cover;
+    height: 50vh;
+    color: #fff;
+
+}
+#submit{
+    margin-top: 2rem;
+    display: block;
+}
+
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#name,#email,#message{
+    background-color: transparent;
+}
+#name::placeholder,#email::placeholder,#message::placeholder{
+    color: #fff;
+}
