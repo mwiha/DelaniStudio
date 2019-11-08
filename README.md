@@ -26,6 +26,7 @@ https://github.com/mwiha/Delani.git
 - Javascript
 
 ## Known Bugs ##
+- Not known bugs
 
 ## Contact Information ##
 
