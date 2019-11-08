@@ -7,6 +7,7 @@
 - The products we build are always ready to go live.
 
 ## Author ##
+- Alice Mwihaki
 
 
 ## Set up instructions ##
