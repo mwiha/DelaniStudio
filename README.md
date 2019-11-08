@@ -1,4 +1,4 @@
-### DELANI STUDIO ###
+# DELANI STUDIO #
 
 ## Description ##
 
