@@ -29,6 +29,7 @@ https://github.com/mwiha/Delani.git
 - Not known bugs
 
 ## Contact Information ##
+- For comments or questions contact through:
 alicemwihaki99@gmail.com
 
 ## Licence ##
