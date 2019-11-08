@@ -18,6 +18,20 @@
 .logo{
    margin-bottom: 2rem;
 }
+.about p{
+    width: 59%;
+} 
+.services{
+    height: 50vh;
+    background: url("../images/backgrounds/s_image.jpg") no-repeat center center/cover;
+    color: #fff;
+}
+.contacts{
+    background: url("../images/backgrounds/c_image.jpg")no-repeat center center/cover;
+    height: 50vh;
+    color: #fff;
+}
+    
         
     
     
