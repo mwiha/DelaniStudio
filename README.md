@@ -19,6 +19,11 @@ https://github.com/mwiha/Delani.git
 
 
 ## Technology used ##
+- HTML
+- CSS
+- Bootstrap
+- jQuery
+- Javascript
 
 ## Known Bugs ##
 
