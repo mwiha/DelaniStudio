@@ -6,11 +6,18 @@
 .mouse-click{
     position: absolute;
     top: 90vh;
-    }
-    
-    .header h1{
+}
+.header h1{
     font-size: 3.5rem;
     line-height: 1.5;
-    }
+}
+.delani{
+    display: block;
+    font-size: 4rem;
+}
+.logo{
+   margin-bottom: 2rem;
+}
+        
     
     
