@@ -32,3 +32,4 @@ https://github.com/mwiha/Delani.git
 alicemwihaki99@gmail.com
 
 ## Licence ##
+- This project is Licensed under MIT. ©2019 Copyright Alice Mwihaki
