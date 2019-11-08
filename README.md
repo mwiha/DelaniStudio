@@ -13,7 +13,7 @@
 ## Set up instructions ##
 - To use the app on your computer just clone it from the repo. In the terminal, do the following:
 https://github.com/mwiha/Delani.git
-- 
+ 
 
 ## BDD ##
 
@@ -30,7 +30,7 @@ https://github.com/mwiha/Delani.git
 
 ## Contact Information ##
 - For comments or questions contact through:
-alicemwihaki99@gmail.com
+- alicemwihaki99@gmail.com
 
 ## Licence ##
 - This project is Licensed under MIT. ©2019 Copyright Alice Mwihaki
