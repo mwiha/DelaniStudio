@@ -11,6 +11,9 @@
 
 
 ## Set up instructions ##
+- To use the app on your computer just clone it from the repo. In the terminal, do the following:
+https://github.com/mwiha/Delani.git
+- 
 
 ## BDD ##
 
