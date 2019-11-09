@@ -46,14 +46,36 @@ form{
     #name::placeholder,#email::placeholder,#message::placeholder{
     color: #fff;
     }
-   
-.portfolio1
-.portfolio2
-.portfolio3
-.portfolio4
-.portfolio5
-.portfolio6
-.portfolio7
+    #image-1,
+    #image-2,
+    #image-3,
+    #image-4,
+    #image-5,
+    #image-6,
+    #image-7,
+    #image-8 {
+        text-align: center;
+        color: white;
+        font-size: 2em;
+        border: 2px solid white;
+        margin-top: -120px;
+        display: none;
+        
+        
+    }
+/* .portfolio1{
+    position:absolute;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+} */ 
+/* .portfolio2,
+.portfolio3,
+.portfolio4,
+.portfolio5,
+.portfolio6,
+.portfolio7,
 .portfolio8{
     position:absolute;
    display: flex;
@@ -61,25 +83,23 @@ form{
    align-items: center;
    flex-direction: column;
         
-    }
-.image1
-.image2
-.image3
-.image4
-.image5
-.image6
-.image7
+    } */
+
+/* .image2,
+.image3,
+.image4,
+.image5,
+.image6,
+.image7,
 .image8{
     position: absolute;
     text-align: center;
     color: black;
     font-size: 2em;
-    border: 2px solid white;
-}
-
+    border: 2px solid white; */
 
     
     
         
     
-    
+        
