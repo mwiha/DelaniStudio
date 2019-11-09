@@ -21,15 +21,23 @@
 .about p{
     width: 59%;
 } 
+.about{
+    padding-top: 50px;
+}
 .services{
     height: 50vh;
     background: url("../images/backgrounds/s_image.jpg") no-repeat center center/cover;
     color: #fff;
 }
+.services{
+margin-top: 50px;
+}
+
 .contacts{
     background: url("../images/backgrounds/c_image.jpg")no-repeat center center/cover;
     height: 50vh;
     color: #fff;
+    margin-top: 50px;
 }
 #submit{
     margin-top: 2rem;
@@ -46,6 +54,10 @@ form{
     #name::placeholder,#email::placeholder,#message::placeholder{
     color: #fff;
     }
+
+.text-center{
+      margin-top: 50px;
+    }
     #image-1,
     #image-2,
     #image-3,
@@ -59,47 +71,6 @@ form{
         font-size: 2em;
         border: 2px solid white;
         margin-top: -120px;
-        display: none;
-        
+        display: none;   
         
     }
-/* .portfolio1{
-    position:absolute;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-direction: column;
-} */ 
-/* .portfolio2,
-.portfolio3,
-.portfolio4,
-.portfolio5,
-.portfolio6,
-.portfolio7,
-.portfolio8{
-    position:absolute;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-direction: column;
-        
-    } */
-
-/* .image2,
-.image3,
-.image4,
-.image5,
-.image6,
-.image7,
-.image8{
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 2em;
-    border: 2px solid white; */
-
-    
-    
-        
-    
-        
