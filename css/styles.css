@@ -43,10 +43,41 @@ form{
 #name,#email,#message{
     background-color: transparent;
 }
-#name::placeholder,#email::placeholder,#message::placeholder{
-    color: #fff;   
+    #name::placeholder,#email::placeholder,#message::placeholder{
+    color: #fff;
+    }
+   
+.portfolio1
+.portfolio2
+.portfolio3
+.portfolio4
+.portfolio5
+.portfolio6
+.portfolio7
+.portfolio8{
+    position:absolute;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+        
+    }
+.image1
+.image2
+.image3
+.image4
+.image5
+.image6
+.image7
+.image8{
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 2em;
+    border: 2px solid white;
 }
-    
+
+
     
     
         
